@@ -1,0 +1,31 @@
+region,rank,tier,company,cv_domain,newgrad_annual_jpy_man,skill_reflected_in_grade,confidence
+JP,1,S,Preferred Networks,画像認識・ロボティクス・基盤モデル,600-1000,yes,estimate(mid-career 800-1400 official)
+JP,2,S,Sakana AI,基盤モデル・マルチモーダル,800-1200,yes,estimate
+JP,3,S,Sony,センサ信号処理・3D・生成,600-750,partial,official(base)/estimate
+JP,4,S,NTT,画像メディア基礎研究,550-700,partial,estimate
+JP,5,S,CyberAgent AI Lab,CV・広告画像生成,504-,yes,official(base)
+JP,6,A,Woven by Toyota,自動運転の認識,700-1000,yes,estimate
+JP,7,A,TIER IV,自動運転の認識(Autoware),600-800,yes,estimate
+JP,8,A,Turing,E2E自動運転,600-900,yes,estimate
+JP,9,A,DeNA,AIスペシャリスト枠,600-1000,yes,secondary(old)
+JP,10,A,LINEヤフー,画像検索・OCR,504-,partial,secondary
+JP,11,A,メルカリ,出品画像の認識,600-800,yes,estimate
+JP,12,A,Sansan,OCR・画像解析,586(1000+ offers exist),yes,official
+JP,13,B,楽天グループ,楽天技術研究所 CV,500-650,partial,estimate
+JP,14,B,NEC,顔認証・映像解析,500-600,partial,official(base)/estimate
+JP,15,B,日立製作所,映像解析・産業AI,480-560,partial,official(base)/estimate
+JP,16,B,富士通,行動分析AI,500-650,yes,official
+JP,17,B,デンソー,ADAS認識,480-560,no,estimate
+JP,18,B,パナソニック,映像監視・ロボティクス,480-560,no,estimate
+JP,19,C,キヤノン,カメラ画像処理・医療・検査,480-550,no,estimate
+JP,20,C,富士フイルム,医療画像AI,480-560,no,estimate
+GL,1,S,Google,Research/SWE,1100-1500,yes,official(L3 avg 1614)/estimate
+GL,2,S,NVIDIA,SA/DLエンジニア,1100-1600,yes,estimate
+GL,3,S,Apple,カメラ・画像アルゴリズム,1000-1500,yes,estimate
+GL,4,A,Amazon,ML/Applied Scientist,900-1300,yes,estimate
+GL,5,A,Microsoft,AIソリューション,900-1300,yes,estimate
+GL,6,A,Indeed,検索・ML,900-1200,yes,estimate
+GL,7,A,IBM 東京基礎研究所,AI・画像研究,600-800,partial,estimate
+GL,8,B,Huawei Japan,CV・カメラ画像処理,700-1000,yes,estimate
+GL,9,B,Samsung R&D Japan,画像処理,600-850,partial,estimate
+GL,10,B,Bosch Japan,ADAS認識,550-750,partial,estimate
