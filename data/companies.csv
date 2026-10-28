@@ -35,3 +35,4 @@ MFR,3,B,日産自動車,ProPILOT系の認識,450-510,no,official(base)
 MFR,4,B,三菱重工業,AI画像処理・センシング・無人機,480-550,no,official(base)
 MFR,5,B,川崎重工業,ロボットビジョン・航空防衛,450-510,no,secondary
 MFR,6,C,IHI,航空エンジン検査・インフラ点検,440-500,no,estimate
+JP,12+,A,LayerX,バクラクAI-OCR(帳票の読み取り),非公開(1000+ offers possible),yes,official(policy)
