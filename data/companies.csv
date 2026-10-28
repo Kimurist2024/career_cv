@@ -1,5 +1,5 @@
 region,rank,tier,company,cv_domain,newgrad_annual_jpy_man,skill_reflected_in_grade,confidence
-JP,1,S,Preferred Networks,画像認識・ロボティクス・基盤モデル,600-1000,yes,estimate(mid-career 800-1400 official)
+JP,1,S,Preferred Networks,画像認識・ロボティクス・基盤モデル,600-1000,yes,estimate
 JP,2,S,Sakana AI,基盤モデル・マルチモーダル,800-1200,yes,estimate
 JP,3,S,Sony,センサ信号処理・3D・生成,600-750,partial,official(base)/estimate
 JP,4,S,NTT,画像メディア基礎研究,550-700,partial,estimate
@@ -19,7 +19,7 @@ JP,17,B,デンソー,ADAS認識,480-560,no,estimate
 JP,18,B,パナソニック,映像監視・ロボティクス,480-560,no,estimate
 JP,19,C,キヤノン,カメラ画像処理・医療・検査,480-550,no,estimate
 JP,20,C,富士フイルム,医療画像AI,480-560,no,estimate
-GL,1,S,Google,Research/SWE,1100-1500,yes,official(L3 avg 1614)/estimate
+GL,1,S,Google,Research/SWE,1100-1500,yes,estimate
 GL,2,S,NVIDIA,SA/DLエンジニア,1100-1600,yes,estimate
 GL,3,S,Apple,カメラ・画像アルゴリズム,1000-1500,yes,estimate
 GL,4,A,Amazon,ML/Applied Scientist,900-1300,yes,estimate
